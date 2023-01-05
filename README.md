@@ -2,8 +2,8 @@ Hi 👋 There !!
 
 My name is Zefanya Darma Putri 👩🏻
 
-> Informatics Student ╏
--------------------------------------------
+Informatics Student 
+
 I am a student of Informatics at Telkom University. Interested in doing many new things. Informatics is a new field that I am working on.
 * 🌍  I'm based in Indonesia.
 * 🖥 See my portfolio at [My linkedIn](https://www.linkedin.com/in/zefanya-darma-putri-9a211b193/).
