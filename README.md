@@ -1,8 +1,7 @@
-# Valcar-ies.github.io
 Hi 👋 There !!
-========================================
+
 My name is Zefanya Darma Putri 👩🏻
-========================================
+
 > Informatics Student ╏
 -------------------------------------------
 I am a student of Informatics at Telkom University. Interested in doing many new things. Informatics is a new field that I am working on.
